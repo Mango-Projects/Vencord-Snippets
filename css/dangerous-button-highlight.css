@@ -1,0 +1,12 @@
+#user-context-remove-friend>*,
+#user-context-block>*,
+#user-context-ignore>* {
+    color: var(--text-danger);
+    font-weight: bold;
+}
+
+#user-context-remove-friend.focused_c1e9c4,
+#user-context-ignore.focused_c1e9c4 {
+    background-color: var(--background-feedback-critical);
+    color: var(--text-feedback-critical);
+}
