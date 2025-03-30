@@ -2,8 +2,8 @@
 
 ## <img src="https://zh.minecraft.wiki/images/Crafting_Table_JE4_BE3.png" style="height: 1em;"> First-Part
 
-- [Dangerous Button Highlight](./css/dangerous-button-highlight.css)
-- [Shoter Mention Notifaction](./css/shorter-mention-notifaction.css)
+- [Dangerous Button Highlight](./dangerous-button-highlight.css)
+- [Shoter Mention Notifaction](./shorter-mention-notifaction.css)
 
 ## <img src="https://zh.minecraft.wiki/images/Crafter_JE4_BE3.png" style="height: 1em;"> Third-Part
 
@@ -12,5 +12,5 @@
 
 ## <img src="https://zh.minecraft.wiki/images/Bundle_JE3_BE2.png" style="height: 1em;"> Bundle
 
-- [All of Me](./css/index.css/)
-- [Owner Occupied](./css/owner-occupied.css)
+- [All of Me](./index.css/)
+- [Owner Occupied](./owner-occupied.css)
